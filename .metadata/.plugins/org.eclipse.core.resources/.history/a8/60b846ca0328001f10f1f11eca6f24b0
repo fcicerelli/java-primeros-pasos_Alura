@@ -1,0 +1,19 @@
+package javaPrimerosPasos;
+
+public class EjemploCondicionales2 {
+	public static void main(String[] args) {
+		System.out.println("Probando Condicionales");
+
+		int edad = 17;
+		int cantidadPersonas = 1;
+
+		boolean esPareja = true;
+		
+		if (edad >= 18 || esPareja) {
+			System.out.println("Usted puede entrar");
+			System.out.println("Bienvenido");
+		} else {
+			System.out.println("Usted no esta permitido " + " entrar");
+		}
+	}
+}

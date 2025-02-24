@@ -1,0 +1,8 @@
+package javaPrimerosPasos;
+
+public class EjemploValoresVariables {
+	public static void main(String[] args) {
+		
+	}
+
+}

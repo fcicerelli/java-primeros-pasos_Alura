@@ -1,0 +1,7 @@
+package javaPrimerosPasos;
+
+public class TipoVAriable {
+	public static void main(String[] args) {
+		System.out.println("Hola Mundo!!!");
+	}
+}

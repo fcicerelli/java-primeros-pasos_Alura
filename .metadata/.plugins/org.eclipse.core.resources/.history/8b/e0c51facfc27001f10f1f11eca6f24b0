@@ -1,0 +1,13 @@
+package javaPrimerosPasos;
+
+public class EjemploCondicionales {
+	public static void main(String[] args) {
+		System.out.println("Hello world");
+		
+		int edad = 28;
+		
+		if (edad >= 18) {
+			System.out.println("Usted puede entrar");
+		}
+	}
+}
