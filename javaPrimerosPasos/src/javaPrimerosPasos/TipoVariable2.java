@@ -1,0 +1,9 @@
+package javaPrimerosPasos;
+
+public class TipoVariable2 {
+	public static void main(String args[]) {
+
+        double variable1 = 230.89;
+        int variable1Entero =
+	}
+}
